@@ -6,11 +6,9 @@ Semana de la carrera de Ingeniería en Sistemas UNAH 2019
 
 ## Comenzando 
 
-_Crea una cuenta en EventBrite para obtener un API KEY_
-
+Crea una cuenta en [EventBrite](https://www.eventbrite.com/) para obtener un API KEY
 
 _Crea la aplicacion de React con el siguiente comando:_
-
 
 ```
 create-react-app <nombre_proyecto> 
@@ -28,5 +26,7 @@ _Comienza a codificar con tu tallerista n.n_
 ### Autor
 
 * **Angel Bulnes** - **Trabajo inicial**
+
+_Basado en el proyecto del curso de React - La Guia Completa de Juan Pablo De la torre Valdez_
 
 
