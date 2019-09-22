@@ -9,11 +9,11 @@ Este taller fue elaborado para la semana de la carrera de Ingeniería en Sistema
 
 ## Comenzando 
 
-Crea una cuenta en [EventBrite](https://www.eventbrite.com/) para obtener un API KEY
+Crea una cuenta en [EventBrite](https://www.eventbrite.com/) para obtener un API KEY para ello: 
 
-Navega a tu cuenta en **Account Settings** y en el menu del lado izquierdo ve hasta **Developer Links** 
+* Navega a tu cuenta en **Account Settings** y en el menu del lado izquierdo ve hasta **Developer Links** 
 
-Selecciona **Api Keys** y en la pagina dale click al boton **Create API KEY**
+* Selecciona **Api Keys** y en la pagina dale click al boton **Create API KEY**
 
 
 
