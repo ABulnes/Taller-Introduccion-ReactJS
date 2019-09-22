@@ -1,4 +1,4 @@
-const token = 'DPKBAVIGXGVWT4PDAECJ';
+
 
 export const urlCategories = `https://www.eventbriteapi.com/v3/categories/?token=${token}&locale=es_ES`
 
