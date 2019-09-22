@@ -31,7 +31,7 @@ import './index.css' -> import './bootstrap.min.css'
 
 
 
-Comienza a codificar con tu tallerista n.n
+#### Comienza a codificar con tu tallerista n.n
 
 
 ### Autor
