@@ -11,11 +11,12 @@ _Crea una cuenta en EventBrite para obtener un API KEY_
 
 _Crea la aplicacion de React con el siguiente comando:_
 
-El nombre despues de create-react-app puede ser el que tu quieras
 
 ```
 create-react-app <nombre_proyecto> 
 ```
+El nombre despues de create-react-app puede ser el que tu quieras
+
 
 _Descarga una plantilla de [Bootswatch](https://bootswatch.com/)_
 
