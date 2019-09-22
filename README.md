@@ -21,7 +21,15 @@ El nombre despues de create-react-app puede ser el que tu quieras
 
 _Descarga una plantilla de [Bootswatch](https://bootswatch.com/)_
 
-Agrega el archivo bootstrap.min.css a tu proyecto sustituyendo el archivo **index.css**
+Agrega el archivo **bootstrap.min.css** a tu proyecto sustituyendo el archivo **index.css** que se encuentra en la carpeta _src_
+
+Cambia la siguiente linea en el archivo **index.js** 
+
+```
+import './index.css' -> import './bootstrap.min.css'
+```
+
+
 
 Comienza a codificar con tu tallerista n.n
 
