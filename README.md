@@ -2,7 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Taller Introducción a ReactJS 
 
-Semana de la carrera de Ingeniería en Sistemas UNAH 2019
+React JS es una libreria para el desarrollo de interfaces creada por Facebook. 
+Este taller fue elaborado para la semana de la carrera de Ingeniería en Sistemas de UNAH 2019
 
 ## Comenzando 
 
@@ -18,9 +19,9 @@ El nombre despues de create-react-app puede ser el que tu quieras
 
 _Descarga una plantilla de [Bootswatch](https://bootswatch.com/)_
 
-_Agrega el archivo bootstrap.min.css a tu proyecto sustituyendo el archivo **index.css**_
+Agrega el archivo bootstrap.min.css a tu proyecto sustituyendo el archivo **index.css**
 
-_Comienza a codificar con tu tallerista n.n_
+Comienza a codificar con tu tallerista n.n
 
 
 ### Autor
