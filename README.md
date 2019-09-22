@@ -17,7 +17,7 @@ Para crear el **API KEY**:
 
 * Selecciona **Api Keys** y en la pagina dale click al boton **Create API KEY**
 
-
+Luego
 
 _Crea la aplicacion de React con el siguiente comando:_
 
